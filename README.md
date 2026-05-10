@@ -1,0 +1,117 @@
+# DSA Preparation in C++
+
+This repository contains my Data Structures and Algorithms practice problems in C++.
+
+## Repository Goals
+
+- Build strong problem-solving fundamentals
+- Practice DSA patterns topic by topic
+- Keep solutions simple, readable, and revision-friendly
+
+## Folder Structure
+
+- `Array/Easy` - beginner array problems
+- `Array/Medium` - medium array problems (currently empty)
+- `BasicPROBLEMS` - basic number and math problems
+- `Hashing` - hashing and string-hash style basics
+- `Recursion/basic` - recursion fundamentals
+- `Sorting` - classic sorting algorithms
+
+## Problem Index (Direct File Links)
+
+### Array - Easy
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Find Largest Element in Array | [Array/Easy/p1.cpp](Array/Easy/p1.cpp) |
+| 2 | Second Smallest and Largest Elements | [Array/Easy/p2.cpp](Array/Easy/p2.cpp) |
+| 3 | Check if Array is Rotated Sorted | [Array/Easy/p3.cpp](Array/Easy/p3.cpp) |
+| 4 | Remove Duplicate from Sorted Array | [Array/Easy/p4.cpp](Array/Easy/p4.cpp) |
+| 5 | Left Rotate Array by One | [Array/Easy/p5.cpp](Array/Easy/p5.cpp) |
+| 6 | Rotate Array by K Positions | [Array/Easy/p6.cpp](Array/Easy/p6.cpp) |
+| 7 | Move All Zeros to End | [Array/Easy/p7.cpp](Array/Easy/p7.cpp) |
+| 8 | Linear Search in Array | [Array/Easy/p8.cpp](Array/Easy/p8.cpp) |
+| 9 | Union of Two Arrays | [Array/Easy/p9.cpp](Array/Easy/p9.cpp) |
+| 10 | Intersection of Two Arrays | [Array/Easy/p10.cpp](Array/Easy/p10.cpp) |
+| 11 | Missing Number in Array | [Array/Easy/p11.cpp](Array/Easy/p11.cpp) |
+| 12 | Maximum Consecutive Ones | [Array/Easy/p12.cpp](Array/Easy/p12.cpp) |
+| 13 | Single Number Appearing Once | [Array/Easy/p13.cpp](Array/Easy/p13.cpp) |
+| 14 | Longest Subarray with Sum K | [Array/Easy/p14.cpp](Array/Easy/p14.cpp) |
+| 15 | Longest Subarray with Zero Sum | [Array/Easy/p15.cpp](Array/Easy/p15.cpp) |
+
+### Basic Problems
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Armstrong Number Checker | [BasicPROBLEMS/aArmStrong.cpp](BasicPROBLEMS/aArmStrong.cpp) |
+| 2 | Count Digits in Number | [BasicPROBLEMS/CountNum.cpp](BasicPROBLEMS/CountNum.cpp) |
+| 3 | Find All Divisors | [BasicPROBLEMS/divisor_of_num.cpp](BasicPROBLEMS/divisor_of_num.cpp) |
+| 4 | Greatest Common Divisor | [BasicPROBLEMS/GCD.cpp](BasicPROBLEMS/GCD.cpp) |
+| 5 | Check Palindrome Number | [BasicPROBLEMS/Pelidrome.cpp](BasicPROBLEMS/Pelidrome.cpp) |
+| 6 | Check Prime Number | [BasicPROBLEMS/primeNUM.cpp](BasicPROBLEMS/primeNUM.cpp) |
+| 7 | Reverse a Number | [BasicPROBLEMS/ReverseNum.cpp](BasicPROBLEMS/ReverseNum.cpp) |
+
+### Hashing
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Frequency Count (Array Hashing) | [Hashing/hash.cpp](Hashing/hash.cpp) |
+| 2 | Check String Rotation | [Hashing/RoatateString.cpp](Hashing/RoatateString.cpp) |
+
+### Recursion
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Recursion Practice (placeholder/empty) | [Recursion/rec.cpp](Recursion/rec.cpp) |
+
+### Recursion - Basic
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Print Numbers 1 to N | [Recursion/basic/1_to_n.cpp](Recursion/basic/1_to_n.cpp) |
+| 2 | Print 1 to N using Backtracking | [Recursion/basic/backtrack_1toN.cpp](Recursion/basic/backtrack_1toN.cpp) |
+| 3 | Print N to 1 using Backtracking | [Recursion/basic/backtrack_Nto1.cpp](Recursion/basic/backtrack_Nto1.cpp) |
+| 4 | Factorial of N | [Recursion/basic/fact_of_N.cpp](Recursion/basic/fact_of_N.cpp) |
+| 5 | Fibonacci (Multiple Recursion) | [Recursion/basic/multi_recur_fibonacci.cpp](Recursion/basic/multi_recur_fibonacci.cpp) |
+| 6 | Print Name N Times | [Recursion/basic/N_time_Name.cpp](Recursion/basic/N_time_Name.cpp) |
+| 7 | Print Numbers N to 1 | [Recursion/basic/n_to_1.cpp](Recursion/basic/n_to_1.cpp) |
+| 8 | Check Palindrome String | [Recursion/basic/pelidrome_string.cpp](Recursion/basic/pelidrome_string.cpp) |
+| 9 | Reverse Array (Single Variable) | [Recursion/basic/rev_arr_singlevar.cpp](Recursion/basic/rev_arr_singlevar.cpp) |
+| 10 | Reverse Array (Two Pointers) | [Recursion/basic/reverse_arr.cpp](Recursion/basic/reverse_arr.cpp) |
+| 11 | Sum of Numbers 1 to N | [Recursion/basic/SUM_of_N.cpp](Recursion/basic/SUM_of_N.cpp) |
+
+### Sorting
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Bubble Sort | [Sorting/bubble.cpp](Sorting/bubble.cpp) |
+| 2 | Insertion Sort | [Sorting/insertion.cpp](Sorting/insertion.cpp) |
+| 3 | Merge Sort | [Sorting/merge.cpp](Sorting/merge.cpp) |
+| 4 | Quick Sort | [Sorting/quick.cpp](Sorting/quick.cpp) |
+| 5 | Selection Sort | [Sorting/selection.cpp](Sorting/selection.cpp) |
+
+## Total Progress
+
+- Total solved/added files: **41**
+- Language: **C++**
+- Focus: **DSA interview preparation**
+
+## How to Compile and Run (example)
+
+Use any C++17-compatible compiler.
+
+```bash
+g++ -std=c++17 Array/Easy/p1.cpp -o p1
+./p1
+```
+
+On Windows (PowerShell):
+
+```powershell
+g++ -std=c++17 Array/Easy/p1.cpp -o p1.exe
+./p1.exe
+```
+
+## Author
+
+[Tirth](https://github.com/tirthpatel90)
