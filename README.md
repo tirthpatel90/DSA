@@ -11,13 +11,21 @@ This repository contains my Data Structures and Algorithms practice problems in 
 ## Folder Structure
 
 - `Array/Easy` - beginner array problems
-- `Array/Medium` - medium array problems (currently empty)
+- `Array/Medium` - medium array problems
 - `BasicPROBLEMS` - basic number and math problems
 - `Hashing` - hashing and string-hash style basics
 - `Recursion/basic` - recursion fundamentals
 - `Sorting` - classic sorting algorithms
 
 ## Problem Index (Direct File Links)
+
+### Array - Medium
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Two Sum | [Array/Medium/p1.cpp](Array/Medium/p1.cpp) |
+| 2 | Sort Array of 0s, 1s and 2s | [Array/Medium/p2.cpp](Array/Medium/p2.cpp) |
+| 3 | Majority Element | [Array/Medium/p3.cpp](Array/Medium/p3.cpp) |
 
 ### Array - Easy
 
@@ -92,7 +100,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **41**
+- Total solved/added files: **44**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
