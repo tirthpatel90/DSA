@@ -26,6 +26,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 1 | Two Sum | [Array/Medium/p1.cpp](Array/Medium/p1.cpp) |
 | 2 | Sort Array of 0s, 1s and 2s | [Array/Medium/p2.cpp](Array/Medium/p2.cpp) |
 | 3 | Majority Element | [Array/Medium/p3.cpp](Array/Medium/p3.cpp) |
+| 4 | Maximum Subarray (Kadane) | [Array/Medium/p4.cpp](Array/Medium/p4.cpp) |
+| 5 | Stock Buy & Sell | [Array/Medium/p5.cpp](Array/Medium/p5.cpp) |
 
 ### Array - Easy
 
@@ -100,7 +102,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **44**
+- Total solved/added files: **46**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
