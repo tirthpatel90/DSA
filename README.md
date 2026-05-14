@@ -28,6 +28,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 3 | Majority Element | [Array/Medium/p3.cpp](Array/Medium/p3.cpp) |
 | 4 | Maximum Subarray (Kadane) | [Array/Medium/p4.cpp](Array/Medium/p4.cpp) |
 | 5 | Stock Buy & Sell | [Array/Medium/p5.cpp](Array/Medium/p5.cpp) |
+| 6 | Rearrange Elements by Sign | [Array/Medium/p6.cpp](Array/Medium/p6.cpp) |
+| 7 | Next Permutation | [Array/Medium/p7.cpp](Array/Medium/p7.cpp) |
 
 ### Array - Easy
 
@@ -102,7 +104,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **46**
+- Total solved/added files: **48**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
