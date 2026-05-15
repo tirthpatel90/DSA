@@ -30,6 +30,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 5 | Stock Buy & Sell | [Array/Medium/p5.cpp](Array/Medium/p5.cpp) |
 | 6 | Rearrange Elements by Sign | [Array/Medium/p6.cpp](Array/Medium/p6.cpp) |
 | 7 | Next Permutation | [Array/Medium/p7.cpp](Array/Medium/p7.cpp) |
+| 8 | Leader in array | [Array/Medium/p8.cpp](Array/Medium/p8.cpp) |
+| 9 | Longest consecutive sequence | [Array/Medium/p9.cpp](Array/Medium/p9.cpp) |
 
 ### Array - Easy
 
