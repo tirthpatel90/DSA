@@ -31,7 +31,10 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 6 | Rearrange Elements by Sign | [Array/Medium/p6.cpp](Array/Medium/p6.cpp) |
 | 7 | Next Permutation | [Array/Medium/p7.cpp](Array/Medium/p7.cpp) |
 | 8 | Leader in array | [Array/Medium/p8.cpp](Array/Medium/p8.cpp) |
-| 9 | Longest consecutive sequence | [Array/Medium/p9.cpp](Array/Medium/p9.cpp) |
+| 9 | Longest Consecutive Sequence | [Array/Medium/p9.cpp](Array/Medium/p9.cpp) |
+| 10 | Set Matrix Zeroes | [Array/Medium/p10.cpp](Array/Medium/p10.cpp) |
+| 11 | (Problem 11 - TBD) | [Array/Medium/p11.cpp](Array/Medium/p11.cpp) |
+| 12 | Spiral Matrix | [Array/Medium/p12.cpp](Array/Medium/p12.cpp) |
 
 ### Array - Easy
 
@@ -106,7 +109,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **48**
+- Total solved/added files: **50**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
