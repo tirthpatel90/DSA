@@ -12,6 +12,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 - `Array/Easy` - beginner array problems
 - `Array/Medium` - medium array problems
+- `Array/Hard` - hard array problems
 - `BasicPROBLEMS` - basic number and math problems
 - `Hashing` - hashing and string-hash style basics
 - `Recursion/basic` - recursion fundamentals
@@ -35,6 +36,14 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 10 | Set Matrix Zeroes | [Array/Medium/p10.cpp](Array/Medium/p10.cpp) |
 | 11 | (Problem 11 - TBD) | [Array/Medium/p11.cpp](Array/Medium/p11.cpp) |
 | 12 | Spiral Matrix | [Array/Medium/p12.cpp](Array/Medium/p12.cpp) |
+| 13 | Count Subarrays with Sum K | [Array/Medium/p13.cpp](Array/Medium/p13.cpp) |
+
+### Array - Hard
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Count Subarrays with XOR K | [Array/Hard/p1.cpp](Array/Hard/p1.cpp) |
+| 2 | Merge Overlapping Intervals | [Array/Hard/p2.cpp](Array/Hard/p2.cpp) |
 
 ### Array - Easy
 
@@ -109,7 +118,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **50**
+- Total solved/added files: **52**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
