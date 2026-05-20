@@ -44,6 +44,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 |---|---|---|
 | 1 | Count Subarrays with XOR K | [Array/Hard/p1.cpp](Array/Hard/p1.cpp) |
 | 2 | Merge Overlapping Intervals | [Array/Hard/p2.cpp](Array/Hard/p2.cpp) |
+| 3 | Majority Element II (> n/3 times) | [Array/Hard/p3.cpp](Array/Hard/p3.cpp) |
 
 ### Array - Easy
 
@@ -118,7 +119,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **52**
+- Total solved/added files: **53**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
