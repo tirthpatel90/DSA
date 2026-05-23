@@ -49,6 +49,9 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 5 | 4 Sum (Unique Quadruplets) | [Array/Hard/p5.cpp](Array/Hard/p5.cpp) |
 | 6 | Merge Two Sorted Arrays Without Extra Space | [Array/Hard/p6.cpp](Array/Hard/p6.cpp) |
 | 7 | Find Repeating and Missing Number | [Array/Hard/p7.cpp](Array/Hard/p7.cpp) |
+| 8 | Count Inversions in an Array | [Array/Hard/p8.cpp](Array/Hard/p8.cpp) |
+| 9 | Count Reverse Pairs in an Array | [Array/Hard/p9.cpp](Array/Hard/p9.cpp) |
+| 10 | Maximum Product Subarray | [Array/Hard/p10.cpp](Array/Hard/p10.cpp) |
 
 ### Array - Easy
 
@@ -123,8 +126,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **53**
- - Total solved/added files: **57**
+- Total solved/added files: **64**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
