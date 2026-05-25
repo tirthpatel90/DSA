@@ -15,6 +15,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 - `Array/Hard` - hard array problems
 - `BasicPROBLEMS` - basic number and math problems
 - `Hashing` - hashing and string-hash style basics
+- `BinarySearch/BS_On_Array` - binary search problems on arrays
 - `Recursion/basic` - recursion fundamentals
 - `Sorting` - classic sorting algorithms
 
@@ -124,9 +125,18 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 4 | Quick Sort | [Sorting/quick.cpp](Sorting/quick.cpp) |
 | 5 | Selection Sort | [Sorting/selection.cpp](Sorting/selection.cpp) |
 
+### Binary Search - On Array
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Search in Sorted Array | [BinarySearch/BS_On_Array/p1.cpp](BinarySearch/BS_On_Array/p1.cpp) |
+| 2 | Lower Bound | [BinarySearch/BS_On_Array/p2.cpp](BinarySearch/BS_On_Array/p2.cpp) |
+| 3 | Upper Bound | [BinarySearch/BS_On_Array/p3.cpp](BinarySearch/BS_On_Array/p3.cpp) |
+| 4 | Search Insert Position | [BinarySearch/BS_On_Array/p4.cpp](BinarySearch/BS_On_Array/p4.cpp) |
+
 ## Total Progress
 
-- Total solved/added files: **64**
+- Total solved/added files: **68**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
