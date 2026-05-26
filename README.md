@@ -133,10 +133,12 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 2 | Lower Bound | [BinarySearch/BS_On_Array/p2.cpp](BinarySearch/BS_On_Array/p2.cpp) |
 | 3 | Upper Bound | [BinarySearch/BS_On_Array/p3.cpp](BinarySearch/BS_On_Array/p3.cpp) |
 | 4 | Search Insert Position | [BinarySearch/BS_On_Array/p4.cpp](BinarySearch/BS_On_Array/p4.cpp) |
+| 5 | Floor and Ceil in Sorted Array | [BinarySearch/BS_On_Array/p5.cpp](BinarySearch/BS_On_Array/p5.cpp) |
+| 6 | First and Last Occurrence | [BinarySearch/BS_On_Array/p6.cpp](BinarySearch/BS_On_Array/p6.cpp) |
 
 ## Total Progress
 
-- Total solved/added files: **68**
+- Total solved/added files: **70**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
