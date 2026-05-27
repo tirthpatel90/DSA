@@ -135,10 +135,13 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 4 | Search Insert Position | [BinarySearch/BS_On_Array/p4.cpp](BinarySearch/BS_On_Array/p4.cpp) |
 | 5 | Floor and Ceil in Sorted Array | [BinarySearch/BS_On_Array/p5.cpp](BinarySearch/BS_On_Array/p5.cpp) |
 | 6 | First and Last Occurrence | [BinarySearch/BS_On_Array/p6.cpp](BinarySearch/BS_On_Array/p6.cpp) |
+| 7 | Count Occurrences in Sorted Array | [BinarySearch/BS_On_Array/p7.cpp](BinarySearch/BS_On_Array/p7.cpp) |
+| 8 | Search in Rotated Sorted Array (unique) | [BinarySearch/BS_On_Array/p8.cpp](BinarySearch/BS_On_Array/p8.cpp) |
+| 9 | Search in Rotated Sorted Array (duplicates allowed) | [BinarySearch/BS_On_Array/p9.cpp](BinarySearch/BS_On_Array/p9.cpp) |
 
 ## Total Progress
 
-- Total solved/added files: **70**
+- Total solved/added files: **73**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
