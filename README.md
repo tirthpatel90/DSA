@@ -138,10 +138,13 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 7 | Count Occurrences in Sorted Array | [BinarySearch/BS_On_Array/p7.cpp](BinarySearch/BS_On_Array/p7.cpp) |
 | 8 | Search in Rotated Sorted Array (unique) | [BinarySearch/BS_On_Array/p8.cpp](BinarySearch/BS_On_Array/p8.cpp) |
 | 9 | Search in Rotated Sorted Array (duplicates allowed) | [BinarySearch/BS_On_Array/p9.cpp](BinarySearch/BS_On_Array/p9.cpp) |
+| 10 | Find Minimum in Rotated Sorted Array | [BinarySearch/BS_On_Array/p10.cpp](BinarySearch/BS_On_Array/p10.cpp) |
+| 11 | Find How Many Times Array is Rotated | [BinarySearch/BS_On_Array/p11.cpp](BinarySearch/BS_On_Array/p11.cpp) |
+| 12 | Find Single Element in Sorted Array | [BinarySearch/BS_On_Array/p12.cpp](BinarySearch/BS_On_Array/p12.cpp) |
 
 ## Total Progress
 
-- Total solved/added files: **73**
+- Total solved/added files: **76**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
