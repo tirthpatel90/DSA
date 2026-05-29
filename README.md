@@ -141,10 +141,11 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 10 | Find Minimum in Rotated Sorted Array | [BinarySearch/BS_On_Array/p10.cpp](BinarySearch/BS_On_Array/p10.cpp) |
 | 11 | Find How Many Times Array is Rotated | [BinarySearch/BS_On_Array/p11.cpp](BinarySearch/BS_On_Array/p11.cpp) |
 | 12 | Find Single Element in Sorted Array | [BinarySearch/BS_On_Array/p12.cpp](BinarySearch/BS_On_Array/p12.cpp) |
+| 13 | Find Peak Element in an Array | [BinarySearch/BS_On_Array/p13.cpp](BinarySearch/BS_On_Array/p13.cpp) |
 
 ## Total Progress
 
-- Total solved/added files: **76**
+- Total solved/added files: **77**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
