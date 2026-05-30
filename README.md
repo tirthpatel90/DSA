@@ -143,9 +143,17 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 12 | Find Single Element in Sorted Array | [BinarySearch/BS_On_Array/p12.cpp](BinarySearch/BS_On_Array/p12.cpp) |
 | 13 | Find Peak Element in an Array | [BinarySearch/BS_On_Array/p13.cpp](BinarySearch/BS_On_Array/p13.cpp) |
 
+### Binary Search - Problems
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Square Root of a Number | [BinarySearch/BS_Problems/p1.cpp](BinarySearch/BS_Problems/p1.cpp) |
+| 2 | Nth Root of a Number | [BinarySearch/BS_Problems/p2.cpp](BinarySearch/BS_Problems/p2.cpp) |
+| 3 | Koko Eating Bananas | [BinarySearch/BS_Problems/p3.cpp](BinarySearch/BS_Problems/p3.cpp) |
+
 ## Total Progress
 
-- Total solved/added files: **77**
+- Total solved/added files: **80**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
