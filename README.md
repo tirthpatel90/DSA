@@ -150,10 +150,12 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 1 | Square Root of a Number | [BinarySearch/BS_Problems/p1.cpp](BinarySearch/BS_Problems/p1.cpp) |
 | 2 | Nth Root of a Number | [BinarySearch/BS_Problems/p2.cpp](BinarySearch/BS_Problems/p2.cpp) |
 | 3 | Koko Eating Bananas | [BinarySearch/BS_Problems/p3.cpp](BinarySearch/BS_Problems/p3.cpp) |
+| 4 | Smallest Divisor Given a Threshold | [BinarySearch/BS_Problems/p4.cpp](BinarySearch/BS_Problems/p4.cpp) |
+| 5 | Kth Missing Positive Number | [BinarySearch/BS_Problems/p5.cpp](BinarySearch/BS_Problems/p5.cpp) |
 
 ## Total Progress
 
-- Total solved/added files: **80**
+- Total solved/added files: **82**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
