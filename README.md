@@ -152,10 +152,11 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 3 | Koko Eating Bananas | [BinarySearch/BS_Problems/p3.cpp](BinarySearch/BS_Problems/p3.cpp) |
 | 4 | Smallest Divisor Given a Threshold | [BinarySearch/BS_Problems/p4.cpp](BinarySearch/BS_Problems/p4.cpp) |
 | 5 | Kth Missing Positive Number | [BinarySearch/BS_Problems/p5.cpp](BinarySearch/BS_Problems/p5.cpp) |
+| 6 | Split Array Largest Sum / Painter's Partition | [BinarySearch/BS_Problems/p6.cpp](BinarySearch/BS_Problems/p6.cpp) |
 
 ## Total Progress
 
-- Total solved/added files: **82**
+- Total solved/added files: **83**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
