@@ -15,7 +15,9 @@ This repository contains my Data Structures and Algorithms practice problems in 
 - `Array/Hard` - hard array problems
 - `BasicPROBLEMS` - basic number and math problems
 - `Hashing` - hashing and string-hash style basics
-- `BinarySearch/BS_On_Array` - binary search problems on arrays
+- `BinarySearch/BS_On_Array/1D-Array` - binary search problems on 1D arrays
+- `BinarySearch/BS_On_Array/2D-Array` - binary search problems on 2D arrays
+- `BinarySearch/BS_Problems` - classic binary search problems
 - `Recursion/basic` - recursion fundamentals
 - `Sorting` - classic sorting algorithms
 
@@ -125,23 +127,30 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 4 | Quick Sort | [Sorting/quick.cpp](Sorting/quick.cpp) |
 | 5 | Selection Sort | [Sorting/selection.cpp](Sorting/selection.cpp) |
 
-### Binary Search - On Array
+### Binary Search - 1D Array
 
 | # | Problem | File |
 |---|---|---|
-| 1 | Search in Sorted Array | [BinarySearch/BS_On_Array/p1.cpp](BinarySearch/BS_On_Array/p1.cpp) |
-| 2 | Lower Bound | [BinarySearch/BS_On_Array/p2.cpp](BinarySearch/BS_On_Array/p2.cpp) |
-| 3 | Upper Bound | [BinarySearch/BS_On_Array/p3.cpp](BinarySearch/BS_On_Array/p3.cpp) |
-| 4 | Search Insert Position | [BinarySearch/BS_On_Array/p4.cpp](BinarySearch/BS_On_Array/p4.cpp) |
-| 5 | Floor and Ceil in Sorted Array | [BinarySearch/BS_On_Array/p5.cpp](BinarySearch/BS_On_Array/p5.cpp) |
-| 6 | First and Last Occurrence | [BinarySearch/BS_On_Array/p6.cpp](BinarySearch/BS_On_Array/p6.cpp) |
-| 7 | Count Occurrences in Sorted Array | [BinarySearch/BS_On_Array/p7.cpp](BinarySearch/BS_On_Array/p7.cpp) |
-| 8 | Search in Rotated Sorted Array (unique) | [BinarySearch/BS_On_Array/p8.cpp](BinarySearch/BS_On_Array/p8.cpp) |
-| 9 | Search in Rotated Sorted Array (duplicates allowed) | [BinarySearch/BS_On_Array/p9.cpp](BinarySearch/BS_On_Array/p9.cpp) |
-| 10 | Find Minimum in Rotated Sorted Array | [BinarySearch/BS_On_Array/p10.cpp](BinarySearch/BS_On_Array/p10.cpp) |
-| 11 | Find How Many Times Array is Rotated | [BinarySearch/BS_On_Array/p11.cpp](BinarySearch/BS_On_Array/p11.cpp) |
-| 12 | Find Single Element in Sorted Array | [BinarySearch/BS_On_Array/p12.cpp](BinarySearch/BS_On_Array/p12.cpp) |
-| 13 | Find Peak Element in an Array | [BinarySearch/BS_On_Array/p13.cpp](BinarySearch/BS_On_Array/p13.cpp) |
+| 1 | Search in Sorted Array | [BinarySearch/BS_On_Array/1D-Array/p1.cpp](BinarySearch/BS_On_Array/1D-Array/p1.cpp) |
+| 2 | Lower Bound | [BinarySearch/BS_On_Array/1D-Array/p2.cpp](BinarySearch/BS_On_Array/1D-Array/p2.cpp) |
+| 3 | Upper Bound | [BinarySearch/BS_On_Array/1D-Array/p3.cpp](BinarySearch/BS_On_Array/1D-Array/p3.cpp) |
+| 4 | Search Insert Position | [BinarySearch/BS_On_Array/1D-Array/p4.cpp](BinarySearch/BS_On_Array/1D-Array/p4.cpp) |
+| 5 | Floor and Ceil in Sorted Array | [BinarySearch/BS_On_Array/1D-Array/p5.cpp](BinarySearch/BS_On_Array/1D-Array/p5.cpp) |
+| 6 | First and Last Occurrence | [BinarySearch/BS_On_Array/1D-Array/p6.cpp](BinarySearch/BS_On_Array/1D-Array/p6.cpp) |
+| 7 | Count Occurrences in Sorted Array | [BinarySearch/BS_On_Array/1D-Array/p7.cpp](BinarySearch/BS_On_Array/1D-Array/p7.cpp) |
+| 8 | Search in Rotated Sorted Array (unique) | [BinarySearch/BS_On_Array/1D-Array/p8.cpp](BinarySearch/BS_On_Array/1D-Array/p8.cpp) |
+| 9 | Search in Rotated Sorted Array (duplicates allowed) | [BinarySearch/BS_On_Array/1D-Array/p9.cpp](BinarySearch/BS_On_Array/1D-Array/p9.cpp) |
+| 10 | Find Minimum in Rotated Sorted Array | [BinarySearch/BS_On_Array/1D-Array/p10.cpp](BinarySearch/BS_On_Array/1D-Array/p10.cpp) |
+| 11 | Find How Many Times Array is Rotated | [BinarySearch/BS_On_Array/1D-Array/p11.cpp](BinarySearch/BS_On_Array/1D-Array/p11.cpp) |
+| 12 | Find Single Element in Sorted Array | [BinarySearch/BS_On_Array/1D-Array/p12.cpp](BinarySearch/BS_On_Array/1D-Array/p12.cpp) |
+| 13 | Find Peak Element in an Array | [BinarySearch/BS_On_Array/1D-Array/p13.cpp](BinarySearch/BS_On_Array/1D-Array/p13.cpp) |
+
+### Binary Search - 2D Array
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Kth element of two sorted arrays | [BinarySearch/BS_On_Array/2D-Array/p1.cpp](BinarySearch/BS_On_Array/2D-Array/p1.cpp) |
+| 2 | Search in a sorted 2D matrix | [BinarySearch/BS_On_Array/2D-Array/p2.cpp](BinarySearch/BS_On_Array/2D-Array/p2.cpp) |
 
 ### Binary Search - Problems
 
@@ -153,10 +162,12 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 4 | Smallest Divisor Given a Threshold | [BinarySearch/BS_Problems/p4.cpp](BinarySearch/BS_Problems/p4.cpp) |
 | 5 | Kth Missing Positive Number | [BinarySearch/BS_Problems/p5.cpp](BinarySearch/BS_Problems/p5.cpp) |
 | 6 | Split Array Largest Sum / Painter's Partition | [BinarySearch/BS_Problems/p6.cpp](BinarySearch/BS_Problems/p6.cpp) |
+| 7 | Median of Two Sorted Arrays | [BinarySearch/BS_Problems/p7.cpp](BinarySearch/BS_Problems/p7.cpp) |
+| 8 | Kth element of two sorted arrays | [BinarySearch/BS_Problems/p8.cpp](BinarySearch/BS_Problems/p8.cpp) |
 
 ## Total Progress
 
-- Total solved/added files: **83**
+- Total solved/added files: **85**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
