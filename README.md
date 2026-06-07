@@ -151,6 +151,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 |---|---|---|
 | 1 | Kth element of two sorted arrays | [BinarySearch/BS_On_Array/2D-Array/p1.cpp](BinarySearch/BS_On_Array/2D-Array/p1.cpp) |
 | 2 | Search in a sorted 2D matrix | [BinarySearch/BS_On_Array/2D-Array/p2.cpp](BinarySearch/BS_On_Array/2D-Array/p2.cpp) |
+| 3 | Find the Row with Maximum Number of 1's | [BinarySearch/BS_On_Array/2D-Array/p3.cpp](BinarySearch/BS_On_Array/2D-Array/p3.cpp) |
+| 4 | Find Peak Element in a 2D Matrix | [BinarySearch/BS_On_Array/2D-Array/p4.cpp](BinarySearch/BS_On_Array/2D-Array/p4.cpp) |
 
 ### Binary Search - Problems
 
@@ -167,7 +169,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **85**
+- Total solved/added files: **87**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
