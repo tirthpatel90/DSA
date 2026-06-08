@@ -18,6 +18,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 - `BinarySearch/BS_On_Array/1D-Array` - binary search problems on 1D arrays
 - `BinarySearch/BS_On_Array/2D-Array` - binary search problems on 2D arrays
 - `BinarySearch/BS_Problems` - classic binary search problems
+- `Strings` - string manipulation problems
 - `Recursion/basic` - recursion fundamentals
 - `Sorting` - classic sorting algorithms
 
@@ -95,6 +96,13 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 1 | Frequency Count (Array Hashing) | [Hashing/hash.cpp](Hashing/hash.cpp) |
 | 2 | Check String Rotation | [Hashing/RoatateString.cpp](Hashing/RoatateString.cpp) |
 
+### Strings
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Remove Outermost Parentheses | [Strings/p1.cpp](Strings/p1.cpp) |
+| 2 | (Placeholder / empty) | [Strings/p2.cpp](Strings/p2.cpp) |
+
 ### Recursion
 
 | # | Problem | File |
@@ -169,7 +177,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **87**
+- Total solved/added files: **89**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
