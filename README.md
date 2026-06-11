@@ -101,7 +101,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | # | Problem | File |
 |---|---|---|
 | 1 | Remove Outermost Parentheses | [Strings/p1.cpp](Strings/p1.cpp) |
-| 2 | (Placeholder / empty) | [Strings/p2.cpp](Strings/p2.cpp) |
+| 2 | Reverse Words in a String | [Strings/p2.cpp](Strings/p2.cpp) |
+| 3 | Largest Odd Number in a String | [Strings/p3.cpp](Strings/p3.cpp) |
 
 ### Recursion
 
@@ -177,7 +178,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **89**
+- Total solved/added files: **91**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
