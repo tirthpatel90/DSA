@@ -106,6 +106,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 4 | Longest Common Prefix | [Strings/p4.cpp](Strings/p4.cpp) |
 | 5 | Check if One String is Rotation of Another | [Strings/p5.cpp](Strings/p5.cpp) |
 | 6 | Anagram Check | [Strings/p6.cpp](Strings/p6.cpp) |
+| 7 | Maximum Nesting Depth of Parentheses | [Strings/p7.cpp](Strings/p7.cpp) |
 
 ### Recursion
 
@@ -181,7 +182,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **94**
+- Total solved/added files: **95**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
