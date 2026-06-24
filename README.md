@@ -107,6 +107,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 5 | Check if One String is Rotation of Another | [Strings/p5.cpp](Strings/p5.cpp) |
 | 6 | Anagram Check | [Strings/p6.cpp](Strings/p6.cpp) |
 | 7 | Maximum Nesting Depth of Parentheses | [Strings/p7.cpp](Strings/p7.cpp) |
+| 8 | Roman Numeral to Integer | [Strings/p8.cpp](Strings/p8.cpp) |
+| 9 | Longest Palindrome substring | [Strings/p9.cpp](Strings/p9.cpp) |
 
 ### Recursion
 
