@@ -108,7 +108,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 6 | Anagram Check | [Strings/p6.cpp](Strings/p6.cpp) |
 | 7 | Maximum Nesting Depth of Parentheses | [Strings/p7.cpp](Strings/p7.cpp) |
 | 8 | Roman Numeral to Integer | [Strings/p8.cpp](Strings/p8.cpp) |
-| 9 | Longest Palindrome substring | [Strings/p9.cpp](Strings/p9.cpp) |
+| 9 | Longest Palindrome Substring | [Strings/p9.cpp](Strings/p9.cpp) |
 
 ### Recursion
 
@@ -184,7 +184,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **95**
+- Total solved/added files: **96**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
