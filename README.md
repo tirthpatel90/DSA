@@ -19,6 +19,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 - `BinarySearch/BS_On_Array/2D-Array` - binary search problems on 2D arrays
 - `BinarySearch/BS_Problems` - classic binary search problems
 - `Strings` - string manipulation problems
+- `LinkedList` - linked list operations and reversals
 - `Recursion/basic` - recursion fundamentals
 - `Sorting` - classic sorting algorithms
 
@@ -110,6 +111,16 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 8 | Roman Numeral to Integer | [Strings/p8.cpp](Strings/p8.cpp) |
 | 9 | Longest Palindrome Substring | [Strings/p9.cpp](Strings/p9.cpp) |
 
+### LinkedList
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Basic Operations on Linked List | [LinkedList/Basic_op_1D.cpp](LinkedList/Basic_op_1D.cpp) |
+| 2 | Basic Operations on 2D Linked List | [LinkedList/Basic_op_2D.cpp](LinkedList/Basic_op_2D.cpp) |
+| 3 | Find Middle Element of Linked List | [LinkedList/p1.cpp](LinkedList/p1.cpp) |
+| 4 | Reverse a Linked List | [LinkedList/Reverse_1LL.CPP](LinkedList/Reverse_1LL.CPP) |
+| 5 | Reverse a Doubly Linked List | [LinkedList/Reverse_2DLL.cpp](LinkedList/Reverse_2DLL.cpp) |
+
 ### Recursion
 
 | # | Problem | File |
@@ -184,7 +195,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **96**
+- Total solved/added files: **101**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
