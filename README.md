@@ -123,6 +123,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 6 | Remove Nth Node From End of List | [LinkedList/p2.cpp](LinkedList/p2.cpp) |
 | 7 | Detect Loop in a Linked List | [LinkedList/p3.cpp](LinkedList/p3.cpp) |
 | 8 | Find Starting Point of Loop in a Linked List | [LinkedList/p4.cpp](LinkedList/p4.cpp) |
+| 9 | Check if Linked List is Palindrome | [LinkedList/p5.cpp](LinkedList/p5.cpp) |
+| 10 | Segregate Even and Odd Nodes | [LinkedList/p6.cpp](LinkedList/p6.cpp) |
 
 ### Recursion
 
@@ -198,7 +200,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **104**
+- Total solved/added files: **106**
 - Language: **C++**
 - Focus: **DSA interview preparation**
 
