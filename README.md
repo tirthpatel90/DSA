@@ -125,6 +125,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 8 | Find Starting Point of Loop in a Linked List | [LinkedList/p4.cpp](LinkedList/p4.cpp) |
 | 9 | Check if Linked List is Palindrome | [LinkedList/p5.cpp](LinkedList/p5.cpp) |
 | 10 | Segregate Even and Odd Nodes | [LinkedList/p6.cpp](LinkedList/p6.cpp) |
+| 11 | Delete Middle Node of Linked List | [LinkedList/p7.cpp](LinkedList/p7.cpp) |
 
 ### Recursion
 
