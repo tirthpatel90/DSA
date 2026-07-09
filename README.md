@@ -126,6 +126,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 9 | Check if Linked List is Palindrome | [LinkedList/p5.cpp](LinkedList/p5.cpp) |
 | 10 | Segregate Even and Odd Nodes | [LinkedList/p6.cpp](LinkedList/p6.cpp) |
 | 11 | Delete Middle Node of Linked List | [LinkedList/p7.cpp](LinkedList/p7.cpp) |
+| 12 | Merge two sorted Linked List | [LinkedList/p8.cpp](LinkedList/p8.cpp) |
+| 13 | Sort a Linked List | [LinkedList/p9.cpp](LinkedList/p9.cpp) |
 
 ### Recursion
 
