@@ -20,7 +20,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 - `BinarySearch/BS_Problems` - classic binary search problems
 - `Strings` - string manipulation problems
 - `LinkedList` - linked list operations and reversals
-- `Recursion/basic` - recursion fundamentals
+ - `Stack_&_Queue` - stack and queue problems
+ - `Recursion/basic` - recursion fundamentals
 - `Sorting` - classic sorting algorithms
 
 ## Problem Index (Direct File Links)
@@ -130,6 +131,18 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 13 | Sort a Linked List | [LinkedList/p9.cpp](LinkedList/p9.cpp) |
 | 14 | Reverse Node in K group | [LinkedList/p10.cpp](LinkedList/p10.cpp) |
 | 15 | Rotate a Linked List | [LinkedList/p11.cpp](LinkedList/p11.cpp) |
+ 
+### Stack & Queue
+
+| # | Problem | File |
+|---|---|---|
+| 1 | Basic Stack operations | [Stack_&_Queue/Basic_stacks.cpp](Stack_&_Queue/Basic_stacks.cpp) |
+| 2 | Basic Queue operations | [Stack_&_Queue/Basic_Queue.cpp](Stack_&_Queue/Basic_Queue.cpp) |
+| 3 | Infix to Postfix conversion | [Stack_&_Queue/infix_to_post.cpp](Stack_&_Queue/infix_to_post.cpp) |
+| 4 | Implement Stack using Queue | [Stack_&_Queue/p1.cpp](Stack_&_Queue/p1.cpp) |
+| 5 | Implement Queue using Stack | [Stack_&_Queue/p2.cpp](Stack_&_Queue/p2.cpp) |
+| 6 | Balanced Paranthesis | [Stack_&_Queue/p3.cpp](Stack_&_Queue/p3.cpp) |
+| 7 | Implement Min Stack | [Stack_&_Queue/p4.cpp](Stack_&_Queue/p4.cpp) |
 
 ### Recursion
 
@@ -205,9 +218,10 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **106**
+- Total solved/added files: **113**
 - Language: **C++**
 - Focus: **DSA interview preparation**
+ 
 
 ## How to Compile and Run (example)
 
