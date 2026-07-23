@@ -20,8 +20,8 @@ This repository contains my Data Structures and Algorithms practice problems in 
 - `BinarySearch/BS_Problems` - classic binary search problems
 - `Strings` - string manipulation problems
 - `LinkedList` - linked list operations and reversals
- - `Stack_&_Queue` - stack and queue problems
- - `Recursion/basic` - recursion fundamentals
+- `Stack_&_Queue` - stack, queue, and expression conversion problems
+- `Recursion/basic` - recursion fundamentals
 - `Sorting` - classic sorting algorithms
 
 ## Problem Index (Direct File Links)
@@ -138,11 +138,17 @@ This repository contains my Data Structures and Algorithms practice problems in 
 |---|---|---|
 | 1 | Basic Stack operations | [Stack_&_Queue/Basic_stacks.cpp](Stack_&_Queue/Basic_stacks.cpp) |
 | 2 | Basic Queue operations | [Stack_&_Queue/Basic_Queue.cpp](Stack_&_Queue/Basic_Queue.cpp) |
-| 3 | Infix to Postfix conversion | [Stack_&_Queue/infix_to_post.cpp](Stack_&_Queue/infix_to_post.cpp) |
-| 4 | Implement Stack using Queue | [Stack_&_Queue/p1.cpp](Stack_&_Queue/p1.cpp) |
-| 5 | Implement Queue using Stack | [Stack_&_Queue/p2.cpp](Stack_&_Queue/p2.cpp) |
-| 6 | Balanced Paranthesis | [Stack_&_Queue/p3.cpp](Stack_&_Queue/p3.cpp) |
-| 7 | Implement Min Stack | [Stack_&_Queue/p4.cpp](Stack_&_Queue/p4.cpp) |
+| 3 | Implement Stack using Queue | [Stack_&_Queue/p1.cpp](Stack_&_Queue/p1.cpp) |
+| 4 | Implement Queue using Stack | [Stack_&_Queue/p2.cpp](Stack_&_Queue/p2.cpp) |
+| 5 | Balanced Paranthesis | [Stack_&_Queue/p3.cpp](Stack_&_Queue/p3.cpp) |
+| 6 | Implement Min Stack | [Stack_&_Queue/p4.cpp](Stack_&_Queue/p4.cpp) |
+| 7 | Next Greater Element | [Stack_&_Queue/p5.cpp](Stack_&_Queue/p5.cpp) |
+| 8 | Infix to Prefix conversion | [Stack_&_Queue/infix_to_prefix.cpp](Stack_&_Queue/in_pre_postfix/infix_to_prefix.cpp) |
+| 9 | Infix to Postfix conversion | [Stack_&_Queue/infix_to_post.cpp](Stack_&_Queue/in_pre_postfix/infix_to_post.cpp) |
+| 10 | Postfix to Infix conversion | [Stack_&_Queue/postfix_to_infix.cpp](Stack_&_Queue/in_pre_postfix/postfix_to_infix.cpp) |
+| 11 | Prefix to Infix conversion | [Stack_&_Queue/prefix_to_infix.cpp](Stack_&_Queue/in_pre_postfix/prefix_to_infix.cpp) |
+| 12 | Postfix to Prefix conversion | [Stack_&_Queue/postfix_to_prefix.cpp](Stack_&_Queue/in_pre_postfix/postfix_to_prefix.cpp) |
+| 13 | Prefix to Postfix conversion | [Stack_&_Queue/prefix_to_postfix.cpp](Stack_&_Queue/in_pre_postfix/prefix_to_postfix.cpp) |
 
 ### Recursion
 
@@ -218,7 +224,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 
 ## Total Progress
 
-- Total solved/added files: **113**
+- Total solved/added files: **126**
 - Language: **C++**
 - Focus: **DSA interview preparation**
  
