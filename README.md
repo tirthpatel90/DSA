@@ -149,6 +149,7 @@ This repository contains my Data Structures and Algorithms practice problems in 
 | 11 | Prefix to Infix conversion | [Stack_&_Queue/prefix_to_infix.cpp](Stack_&_Queue/in_pre_postfix/prefix_to_infix.cpp) |
 | 12 | Postfix to Prefix conversion | [Stack_&_Queue/postfix_to_prefix.cpp](Stack_&_Queue/in_pre_postfix/postfix_to_prefix.cpp) |
 | 13 | Prefix to Postfix conversion | [Stack_&_Queue/prefix_to_postfix.cpp](Stack_&_Queue/in_pre_postfix/prefix_to_postfix.cpp) |
+| 14 | Trapping Rain Water | [Stack_&_Queue/p6.cpp](Stack_&_Queue/p6.cpp) |
 
 ### Recursion
 
